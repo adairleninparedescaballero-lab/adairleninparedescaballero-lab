@@ -18,7 +18,6 @@ Soy desarrollador de software enfocado en la construcción de aplicaciones web y
 - 🎓 Estudiante de desarrollo de software.
 - 🔭 Actualmente enfocado en proyectos web modernos y software de escritorio.
 - 🌱 Aprendiendo y profundizando en arquitecturas limpias y despliegue continuo.
-- 💬 Pregúntame sobre desarrollo frontend, backend o bases de datos.
 - 🌐 Visita mi [Portafolio](https://unusual-pear-420241.framer.app/) para ver mis proyectos en producción.
 
 <br />
